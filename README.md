@@ -1,7 +1,5 @@
 # warp-implementation
 
-
-
 ## Структура
 - config.yaml - конфиг
 - warp_training.py - обучение warp
